@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OF827jKgwJ4nDSQCStqpaYodgQgrYqLUjrrsd8yrt5hT/v1NnDey4O3077yXQuZGjkZiZoCa36RKS6vKanwe/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-Criacionais\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
